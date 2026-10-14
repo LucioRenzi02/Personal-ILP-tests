@@ -153,5 +153,3 @@ def dominacion(G):
 
 # Resolvemos el problema de dominación para el grafo de Petersen
 dominacion(Petersen)
-
-dominacion(GP)
